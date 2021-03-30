@@ -1,6 +1,10 @@
 chef\_cfn changelog
 ===================
 
+v2.1.3
+------
+* Commented out python pip installation
+
 v2.1.2
 ------
 * Version-locked aws-ruby-sdk to '~> v2.10.98'
